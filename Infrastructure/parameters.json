@@ -1,0 +1,27 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_sammreen_name": {
+            "value": null
+        },
+        "components_sammreen_name": {
+            "value": null
+        },
+        "databaseAccounts_samreen_name": {
+            "value": null
+        },
+        "storageAccounts_sammreenamir_name": {
+            "value": null
+        },
+        "serverfarms_ASP_classsamreen_b115_name": {
+            "value": null
+        },
+        "storageAccounts_classsamreen9f98_name": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_290e5ad3_dec3_49d9_a307_a31200a7c1aa_CCAN_externalid": {
+            "value": null
+        }
+    }
+}
