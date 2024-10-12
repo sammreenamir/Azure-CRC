@@ -28,4 +28,4 @@ jobs:
           app-name: sammreen  # Ensure this is the exact Function App name
           publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}  # Reference to the correct secret
           package: 'Backend'  # Path to the code to be deployed
-          scm-do-build-during-deployment: true  # Ensures build happens during deployment
+          # scm-do-build-during-deployment: true  # Ensures build happens during deployment
